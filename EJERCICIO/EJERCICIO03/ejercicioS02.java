@@ -39,7 +39,7 @@ public class ejercicioS02 {
         System.out.println("Número de introducciones: " + (contador - 1)); // Restamos 1 porque no queremos contar el 0.
         System.out.println("La mayor secuencia de números consecutivos iguales fue: " + maxRepeticiones);
         System.out.println("El número que se repitió fue: " + numeroMaxRepeticiones);
-        System.out.println( 
+        System.out.println() ;
     }
 }
 }
